@@ -21,16 +21,16 @@ and it inspires me to build a custom-handwired-mechanical keyboard.
 | Part | Price | Quantity |
 | ---- | ----- | -------- |
 | [Gateron Milky Brown 3-pin](https://shopee.com.my/product/79025026/5655361769) | RM 1.00 | 25 |
-| [Pro Micro Clone ATmega32U4](https://shopee.com.my/product/33091591/2627005825) | RM 23.90 | 1 |
+| [Pro Micro clone ATmega32U4](https://shopee.com.my/product/33091591/2627005825) | RM 23.90 | 1 |
 | [Diode 1N4148](https://shopee.com.my/product/23949362/861826364) | RM 0.20 | 25 |
-| Stainless steel plates + cutting service, switch 1.5 mm bottom 2.0 mm | TBA | 3 |
-| Keycaps | FREE (Hudan's) | 9 |
+| Stainless steel plates + cutting service, switch 1.5 mm bottom 2.0 mm | RM 25.00 | 3 |
+| Keycaps | FREE | 9 |
 | Copper wire | TBA | TBA |
-| M5 spacer | TBA | TBA |
-| M5 screw | TBA | TBA |
-| M5 hex screw | TBA | TBA |
+| M3x6 mm spacer | TBA | TBA |
+| M3x5 mm screw | TBA | TBA |
+| M3x3 mm hex screw | TBA | TBA |
 | Type C USB to micro USB adapter | TBA | TBA |
-| BumpOn rubber feet | TBA | TBA |
+| Bump on rubber feet | TBA | TBA |
 
 ## Layout
 9 keys macro pad
