@@ -32,10 +32,10 @@ and it inspires me to build a custom-handwired-mechanical keyboard.
 | Type C USB to micro USB adapter | TBA | TBA |
 | BumpOn rubber feet | TBA | TBA |
 
+## Layout
+9 keys macro pad
 
-
-
-
+![](/home/apiqnzr/Repos/mmpad/Pictures/keyboard-layout.png)
 
 
 
