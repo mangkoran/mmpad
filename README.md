@@ -35,42 +35,4 @@ and it inspires me to build a custom-handwired-mechanical keyboard.
 ## Layout
 9 keys macro pad
 
-![](/home/apiqnzr/Repos/mmpad/Pictures/keyboard-layout.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/mangkoran/mmpad/blob/main/Pictures/keyboard-layout.png)
