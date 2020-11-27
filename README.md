@@ -26,7 +26,7 @@ and it inspires me to build a custom-handwired-mechanical keyboard.
 | Stainless steel plates + cutting service, switch 1.5 mm bottom 2.0 mm | RM 25.00 | 3 |
 | Keycaps | FREE | 9 |
 | Copper wire | TBA | TBA |
-| M3x6 mm spacer | TBA | TBA |
+| M3x8 mm spacer | TBA | TBA |
 | M3x5 mm screw | TBA | TBA |
 | M3x3 mm hex screw | TBA | TBA |
 | Type C USB to micro USB adapter | TBA | TBA |
