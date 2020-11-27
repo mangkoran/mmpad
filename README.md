@@ -20,17 +20,17 @@ and it inspires me to build a custom-handwired-mechanical keyboard.
 ## Parts
 | Part | Price | Quantity |
 | ---- | ----- | -------- |
-| [Gateron Milky Brown 3-pin](https://shopee.com.my/product/79025026/5655361769) | RM 1.00 | 25 |
+| [Gateron Milky Brown 3-pin](https://shopee.com.my/product/79025026/5655361769) | RM 0.97 | 20 |
 | [Pro Micro clone ATmega32U4](https://shopee.com.my/product/33091591/2627005825) | RM 23.90 | 1 |
 | [Diode 1N4148](https://shopee.com.my/product/23949362/861826364) | RM 0.20 | 25 |
-| Stainless steel plates + cutting service, switch 1.5 mm bottom 2.0 mm | RM 25.00 | 3 |
-| Keycaps | FREE | 9 |
-| Copper wire | TBA | TBA |
+| [AWG24 Multicore wire](https://shopee.com.my/product/33091591/870061166) | RM 1.90 / m | 5 m |
+| Stainless steel plates + cutting service, switch 1.5 mm bottom 2.0 mm | RM 25.00 | 1 |
 | M3x8 mm spacer | TBA | TBA |
 | M3x5 mm screw | TBA | TBA |
 | M3x3 mm hex screw | TBA | TBA |
 | Type C USB to micro USB adapter | TBA | TBA |
 | Bump on rubber feet | TBA | TBA |
+| Keycaps | FREE | 9 |
 
 ## Layout
 9 keys macro pad
