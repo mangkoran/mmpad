@@ -13,7 +13,7 @@ and it inspires me to build a custom-handwired-mechanical keyboard.
 ## Objectives
 
 - As cheap as possible
-- Fully customizable (I mean, it's handwired)
+- Fully customizable switch config (I mean, it's handwired)
 - Compact, ideal for travelling (mobile gamer gang)
 - Helps me reaching FC 5\* (lol)
 
