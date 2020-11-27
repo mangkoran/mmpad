@@ -36,3 +36,13 @@ and it inspires me to build a custom-handwired-mechanical keyboard.
 9 keys macro pad
 
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/keyboard-layout.png)
+
+Plates v1
+- v1 has horizontal pro micro placement, thus making the usb cable horizontal too which is a bit odd
+
+![](https://github.com/mangkoran/mmpad/blob/main/Pictures/v1/swillkb-preview.png)
+
+Plates v2
+- v2 has vertical pro micro placement at the left side of the plate
+
+![](https://github.com/mangkoran/mmpad/blob/main/Pictures/v2/swillkb-preview.png)
