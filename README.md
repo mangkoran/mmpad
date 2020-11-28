@@ -30,6 +30,7 @@ and it inspires me to build a custom handwired mechanical keyboard.
 | M3x5 mm screw | TBA | TBA |
 | M3x3 mm hex screw | TBA | TBA |
 | Type C USB to micro USB adapter | TBA | TBA |
+| Type C USB cable | TBA | TBA |
 | Bump on rubber feet | TBA | TBA |
 | Keycaps | FREE | 9 |
 
