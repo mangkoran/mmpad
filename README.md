@@ -1,6 +1,6 @@
 # MMPAD
 
-MMPAD stands for "mangkoran Macro Pad", built with osu! in mind (lol).
+MMPAD stands for "mangkoran MacroPad", built with osu! in mind (lol).
 
 ## Backgrounds
 
@@ -8,7 +8,7 @@ I've started playing a rythm game osu! to kill time since the pandemic began.
 Actually, I play osu! because it's the only game that I could ran in my Linux.
 Then at some point in November, I'm thinking of buying a mechanical keyboard for osu!.
 But holy f\*\*\* they are so damn expensive for my poor wallet. Then I remembered [herpiko's UNK](https://github.com/herpiko/unk)
-and it inspires me to build a custom-handwired-mechanical keyboard.
+and it inspires me to build a custom handwired mechanical keyboard.
 
 ## Objectives
 
