@@ -46,3 +46,9 @@ Plates v2
 - v2 has vertical pro micro placement at the left side of the plate
 
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/v2/swillkb-preview.png)
+
+## Timeline
+2020.11.28
+Pro micro arrived.
+
+![](https://github.com/mangkoran/mmpad/blob/main/Pictures/parts/promicro.jpg)
