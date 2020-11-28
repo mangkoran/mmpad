@@ -48,16 +48,16 @@ for myself how much I've spent on my initial build.
 | [Wire stripper](https://shopee.com.my/product/37071777/597419177) | RM 12.50 | 1 |
 
 ## Layout
-9 keys macro pad
+### 9 keys macro pad
 
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/keyboard-layout.png)
 
-Plates v1
+### Plates v1
 - v1 has horizontal pro micro placement, thus making the usb cable horizontal too which is a bit odd
 
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/v1/swillkb-preview.png)
 
-Plates v2
+### Plates v2
 - v2 has vertical pro micro placement at the left side of the plate
 
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/v2/swillkb-preview.png)
