@@ -11,7 +11,6 @@ But holy f\*\*\* they are so damn expensive for my poor wallet. Then I remembere
 and it inspires me to build a custom handwired mechanical keyboard.
 
 ## Objectives
-
 - As cheap as possible
 - Fully customizable switch config (I mean, it's handwired)
 - Compact, ideal for travelling (mobile gamer gang)
@@ -49,22 +48,20 @@ for myself how much I've spent on my initial build.
 
 ## Layout
 ### 9 keys macro pad
-
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/keyboard-layout.png)
 
 ### Plates v1
 - v1 has horizontal pro micro placement, thus making the usb cable horizontal too which is a bit odd
-
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/v1/swillkb-preview.png)
 
 ### Plates v2
 - v2 has vertical pro micro placement at the left side of the plate
-
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/v2/swillkb-preview.png)
+
+## Guides
+- [ATmega32U4 datasheets](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf)
 
 ## Timeline
 ### 2020.11.28
-
 Pro micro arrived.
-
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/parts/promicro.jpg)
