@@ -63,7 +63,8 @@ for myself how much I've spent on my initial build.
 
 ## Timeline
 ### 2020.11.28
-Pro micro arrived.
+Pro micro arrived. Unfortunately, I didn't check the port this pro micro used, and it comes with mini USB B. So painful searching
+for it's cable adapter. Luckily, my friend has unused yet faulty power bank and I just ripped it for it's micro USB B socket.
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/parts/promicro.jpg)
 
 ### 2020.11.30
