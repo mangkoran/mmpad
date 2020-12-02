@@ -65,3 +65,17 @@ for myself how much I've spent on my initial build.
 ### 2020.11.28
 Pro micro arrived.
 ![](https://github.com/mangkoran/mmpad/blob/main/Pictures/parts/promicro.jpg)
+
+### 2020.11.30
+Switches arrived. MAAANN this switch thingy is soo small. Brown since never using mech keyboard
+before, next build maybe blue.
+
+![](https://github.com/mangkoran/mmpad/blob/main/Pictures/parts/gateron_brown.jpg)
+
+### 2020.12.02
+Plates finally finished. Got to pick them up myself (~14 km from home). The first thing I realized
+is the switch hole I used here is more suited if you want to disassembly the switch after they are soldered/mounted
+on the plate. I didn't know this until I mount my switch, placed keycap on it, and pulled the keycap. The switch housing popped off LMAO. I kinda scared,
+but then I browse swillkb documentation and then realized it LOL.
+
+![](https://github.com/mangkoran/mmpad/blob/main/Pictures/parts/plates.jpg)
